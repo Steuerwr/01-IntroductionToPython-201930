@@ -31,6 +31,7 @@ print(answer * 100)
 import math
 answer=math.cos(2.75)+77
 print(math.sqrt(answer))
+math.factorial(20)
 ###############################################################################
 # Done: 3.
 #   Immediately below this _TODO_, write code that computes and prints:
